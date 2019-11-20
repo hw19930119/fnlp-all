@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fnlp-app" />
+        <module name="fnlp-core" />
+        <module name="fnlp-demo" />
+        <module name="fnlp-dev" />
+        <module name="fnlp-train" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fnlp-all" target="1.8" />
+      <module name="fnlp-app" target="1.8" />
+      <module name="fnlp-core" target="1.6" />
+      <module name="fnlp-demo" target="1.8" />
+      <module name="fnlp-dev" target="1.8" />
+      <module name="fnlp-train" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

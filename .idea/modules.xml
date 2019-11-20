@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fnlp-all.iml" filepath="$PROJECT_DIR$/fnlp-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnlp-app/fnlp-app.iml" filepath="$PROJECT_DIR$/fnlp-app/fnlp-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnlp-core/fnlp-core.iml" filepath="$PROJECT_DIR$/fnlp-core/fnlp-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnlp-demo/fnlp-demo.iml" filepath="$PROJECT_DIR$/fnlp-demo/fnlp-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnlp-dev/fnlp-dev.iml" filepath="$PROJECT_DIR$/fnlp-dev/fnlp-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnlp-train/fnlp-train.iml" filepath="$PROJECT_DIR$/fnlp-train/fnlp-train.iml" />
+    </modules>
+  </component>
+</project>
